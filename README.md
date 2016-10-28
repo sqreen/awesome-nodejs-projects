@@ -30,11 +30,11 @@ for a curated list of packages and resources.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript (NodeJS) based Media center.
 * [Habitica](https://github.com/HabitRPG/habitica) ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
 
-## Enterprise
+## Business
 
 * [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business
 
-## Space
+## Science
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
 
 ## License
