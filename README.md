@@ -33,7 +33,6 @@ for a curated list of packages and resources.
 ## Enterprise
 
 * [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business
-* []() ([website]()) - 
 
 ## Space
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
