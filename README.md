@@ -5,8 +5,8 @@ for a curated list of packages and resources.
 
 ## CMS
 
-* [Keystone](https://github.com/keystonejs/keystone)([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
-* [Pencilblue](https://github.com/pencilblue/pencilblue)([website](https://pencilblue.org/)) - Business Class Content Management For Node.js.
+* [Keystone](https://github.com/keystonejs/keystone) ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
+* [Pencilblue](https://github.com/pencilblue/pencilblue) ([website](https://pencilblue.org/)) - Business Class Content Management For Node.js.
 * [Apostrophe](https://github.com/punkave/apostrophe) ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework for nodejs that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Cody](https://github.com/jcoppieters/cody/) ([website](http://howest.cody-cms.org/en/)) - Javascript Content Management System running on Node.js.
 
@@ -24,7 +24,7 @@ for a curated list of packages and resources.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Blog using Nodejs, Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 * [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
 
-## lifestyle
+## Lifestyle
 
 * [Cozy](https://github.com/cozy/simple-cozy) ([website](https://cozy.io/)) - Personal cloud: Own, Synchronize and Connect Your Data.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript (NodeJS) based Media center.
@@ -33,7 +33,6 @@ for a curated list of packages and resources.
 ## Enterprise
 
 * [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business
-* []() ([website]()) - 
 
 ## Space
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
