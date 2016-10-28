@@ -4,7 +4,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) [,optional website] - Description.`
+- Use the following format: `[package](link) [(website)] - Description.`
 - Additions should be added to the bottom of the relevant category.
 - New categories, or improvements to the existing categorization are welcome.
 - Link to the GitHub/Gitlab/Bitbucket repo must be present, project's website is optional.
