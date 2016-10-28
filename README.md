@@ -8,6 +8,6 @@
 
 ## License
 
-![https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg]
+![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
 
 This project is under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)
