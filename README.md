@@ -39,6 +39,9 @@ for a curated list of packages and resources.
 ## Science
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
 
+## CLI
+* [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
