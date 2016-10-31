@@ -26,6 +26,7 @@ for a curated list of packages and resources.
 * [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/)) - A simple, powerful publishing platform.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Blog using Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 * [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
+* [Veria](https://github.com/stevepapa/veria) ([website](http://veriacms.com/)) - A lightweight blogging platform that you can have up and running in 60 seconds.
 
 ## Lifestyle
 
