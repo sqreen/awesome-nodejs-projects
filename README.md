@@ -9,6 +9,8 @@ for a curated list of packages and resources.
 * [Pencilblue](https://github.com/pencilblue/pencilblue) ([website](https://pencilblue.org/)) - Business Class Content Management For Node.js.
 * [Apostrophe](https://github.com/punkave/apostrophe) ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework for nodejs that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Cody](https://github.com/jcoppieters/cody/) ([website](http://howest.cody-cms.org/en/)) - Javascript Content Management System running on Node.js.
+* [Veria](https://github.com/stevepapa/veria) ([website](http://veriacms.com/)) - A lightweight blogging platform that you can have up and running in 60 seconds.
+
 
 ## Developers
 
