@@ -17,7 +17,8 @@ for a curated list of packages and resources.
 * [JSON-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [Wordpress rest-api-console2](https://github.com/Automattic/rest-api-console2) ([website](https://developer.wordpress.com/docs/api/console/)) - WordPress.com REST API Developer Console.
 * [Mongo-Express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express.
-* [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - fully hackable text editor using Nodejs and Chrome.
+* [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - Fully hackable text editor using Nodejs and Chrome.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
 
 ## Blogs
 
