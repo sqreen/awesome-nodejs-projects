@@ -18,6 +18,10 @@ for a curated list of packages and resources.
 * [Wordpress rest-api-console2](https://github.com/Automattic/rest-api-console2) ([website](https://developer.wordpress.com/docs/api/console/)) - WordPress.com REST API Developer Console.
 * [Mongo-Express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express.
 
+## Text Editors
+
+* [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - fully hackable text editor using Nodejs and Chrome.
+
 ## Blogs
 
 * [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/fr/)) - A simple, powerful publishing platform.
