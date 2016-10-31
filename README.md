@@ -31,16 +31,14 @@ for a curated list of packages and resources.
 * [Cozy](https://github.com/cozy/simple-cozy) ([website](https://cozy.io/)) - Personal cloud: Own, Synchronize and Connect Your Data.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript (NodeJS) based Media center.
 * [Habitica](https://github.com/HabitRPG/habitica) ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
+* [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli.
 
 ## Business
 
-* [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business
+* [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business.
 
 ## Science
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
-
-## CLI
-* [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
 
 ## License
 
