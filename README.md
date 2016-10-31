@@ -32,6 +32,7 @@ for a curated list of packages and resources.
 * [Cozy](https://github.com/cozy/simple-cozy) ([website](https://cozy.io/)) - Personal cloud: Own, Synchronize and Connect Your Data.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript (NodeJS) based Media center.
 * [Habitica](https://github.com/HabitRPG/habitica) ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
+* [typr.club](https://github.com/ruiramos/typr.club) ([website](https://typr.club)) - Gif-based chat rooms.
 
 ## Business
 
