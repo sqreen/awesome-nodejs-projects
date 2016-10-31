@@ -22,7 +22,7 @@ for a curated list of packages and resources.
 
 ## Blogs
 
-* [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/fr/)) - A simple, powerful publishing platform.
+* [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/)) - A simple, powerful publishing platform.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Blog using Nodejs, Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 * [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
 
