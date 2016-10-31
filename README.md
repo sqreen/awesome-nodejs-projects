@@ -14,6 +14,7 @@ for a curated list of packages and resources.
 
 * [Shield](https://github.com/badges/shields) ([website](http://shields.io/)) - Shields badge specification, website and default API server.
 * [David-www](https://github.com/alanshaw/david-www) ([website](https://david-dm.org/)) - David helps keep your Node.js project dependencies up to date.
+* [Eve](https://github.com/witheve/Eve) - Eve is a set of tools to help us think. Currently, these tools include: a temporal query language, a compiler, and a database.
 * [JSON-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [Wordpress rest-api-console2](https://github.com/Automattic/rest-api-console2) ([website](https://developer.wordpress.com/docs/api/console/)) - WordPress.com REST API Developer Console.
 * [Mongo-Express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express.
