@@ -9,6 +9,7 @@ for a curated list of packages and resources.
 * [Pencilblue](https://github.com/pencilblue/pencilblue) ([website](https://pencilblue.org/)) - Business Class Content Management.
 * [Apostrophe](https://github.com/punkave/apostrophe) ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Cody](https://github.com/jcoppieters/cody/) ([website](http://howest.cody-cms.org/en/)) - Javascript Content Management System.
+* [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
 
 ## Developers
 
