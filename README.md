@@ -10,6 +10,7 @@ for a curated list of packages and resources.
 * [Apostrophe](https://github.com/punkave/apostrophe) ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
 * [Cody](https://github.com/jcoppieters/cody/) ([website](http://howest.cody-cms.org/en/)) - Javascript Content Management System.
 * [HashBrown](https://github.com/Putaitu/hashbrown-cms/) ([website](http://hashbrown.rocks/)) - Remote, multilingual, multi-project, multi-environment CMS using customisable content and field schemas.
+* [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
 
 ## Developers
 
