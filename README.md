@@ -41,8 +41,9 @@ for a curated list of packages and resources.
 * [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business.
 * [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
 
-## Science
+## Science/Education
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
+* [Hilary (Open Academic Environment (OAE) Back-End)](https://github.com/oaeproject/Hilary.git) ([website](http://oaeproject.org/)) - A global network for academic collaboration.
 
 ## License
 
