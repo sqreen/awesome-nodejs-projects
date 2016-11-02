@@ -51,6 +51,8 @@ for a curated list of packages and resources.
 ## Science
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
 
+* [ShareLaTeX](https://github.com/sharelatex/sharelatex) ([website](https://www.sharelatex.com)) - An online collaborative LaTeX IDE. 
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
