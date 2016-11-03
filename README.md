@@ -57,7 +57,7 @@ for a curated list of packages and resources.
 
 ## eCommerce
 
-**Meteor**
+**Meteor apps**
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform..
 
