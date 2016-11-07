@@ -61,6 +61,10 @@ for a curated list of packages and resources.
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
 
+## Chat Bots
+
+* [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.messenger.com/t/pokedexgo)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
