@@ -38,6 +38,7 @@ for a curated list of packages and resources.
 * [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Blog using Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
 * [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
 * [Hexo](https://github.com/hexojs/hexo) ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
+* [Reptar](https://github.com/reptar/reptar) ([website](http://reptar.github.io/)) - Powerful, modern, and flexible static site generator.
 
 ## Lifestyle
 
