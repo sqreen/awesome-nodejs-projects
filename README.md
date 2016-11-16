@@ -13,7 +13,7 @@ for a curated list of packages and resources.
 * [Cody](https://github.com/jcoppieters/cody/) ([website](http://howest.cody-cms.org/en/)) - Javascript Content Management System.
 * [HashBrown](https://github.com/Putaitu/hashbrown-cms/) ([website](http://hashbrown.rocks/)) - Remote, multilingual, multi-project, multi-environment CMS using customisable content and field schemas.
 * [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
-* [enduro.js](https://github.com/kiskadigitalmedia/Enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged framework and cms that get's your website running minutes.
+* [Enduro.js](https://github.com/kiskadigitalmedia/Enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged framework and cms that get's your website running minutes.
 
 ## Developers
 
