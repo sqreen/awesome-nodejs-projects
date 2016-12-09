@@ -23,6 +23,7 @@ for a curated list of packages and resources.
 * [Mongo-Express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with express.
 * [Eve](https://github.com/witheve/Eve) ([website](http://witheve.com/)) - Eve is a set of tools to help us think. Currently, these tools include: a temporal query language, a compiler, and a database.
 * [Hotel](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
+* [Hackathon Startert](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
 
 
 **Electron apps**
