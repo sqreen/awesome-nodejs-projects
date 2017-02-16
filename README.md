@@ -61,6 +61,9 @@ for a curated list of packages and resources.
 
 ## eCommerce
 
+## CLI applications 
+
+* [Vortech](https://github.com/ozzie1998/vortech) - A small NPM like app designed to be useful customisable, with support for custom commands, soon!
 **Meteor apps**
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
