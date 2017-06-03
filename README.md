@@ -26,7 +26,7 @@ for a curated list of packages and resources.
 * [Hotel](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
 * [Hackathon Startert](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
 * [Node-RED](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
-* [nscm](https://github.com/nodesource/nscm) - An open-source CLI tool for working with NodeSource Certified Moudles
+* [nscm](https://github.com/nodesource/nscm) - An open-source CLI tool for working with NodeSource Certified Modules
 
 **Electron apps**
 
