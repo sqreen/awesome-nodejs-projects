@@ -57,6 +57,7 @@ for a curated list of packages and resources.
 * [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business.
 * [Gadael](https://github.com/gadael/gadael) ([website](http://www.gadael.org)) Leave management software with french work regulations support.
 * [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
+* [ServiceBot](https://github.com/service-bot/servicebot) ([website](https://servicebot.io)) - A platform to manage Stripe subscriptions by directly connecting your customers to the services you provide.
 
 ## Science
 
