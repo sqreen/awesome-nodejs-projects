@@ -72,6 +72,10 @@ for a curated list of packages and resources.
 
 * [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
 
+## Analytics
+
+* [Countly](https://github.com/countly/countly-server) ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
