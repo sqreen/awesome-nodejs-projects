@@ -27,6 +27,7 @@ for a curated list of packages and resources.
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
 * [Node-RED](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
 * [nscm](https://github.com/nodesource/nscm) - An open-source CLI tool for working with NodeSource Certified Modules
+* [Loopback](https://github.com/strongloop/loopback/) - The Node.js API Framework ([website](https://loopback.io/))
 
 **Electron apps**
 
