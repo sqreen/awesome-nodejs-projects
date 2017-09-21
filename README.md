@@ -47,7 +47,6 @@ for a curated list of packages and resources.
 
 ## Lifestyle
 
-* [Cozy](https://github.com/cozy/simple-cozy) ([website](https://cozy.io/)) - Personal cloud: Own, Synchronize and Connect Your Data.
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
 * [Habitica](https://github.com/HabitRPG/habitica) ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
 * [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli.
