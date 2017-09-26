@@ -45,6 +45,10 @@ for a curated list of packages and resources.
 * [Hexo](https://github.com/hexojs/hexo) ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
 * [Reptar](https://github.com/reptar/reptar) ([website](http://reptar.github.io/)) - Powerful, modern, and flexible static site generator.
 
+## File Managers
+
+* [Cloud Commander](https://github.com/coderaiser/cloudcmd)([website](https://cloudcmd.io)) - Orthodox web file manager with console and editor.
+
 ## Lifestyle
 
 * [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
