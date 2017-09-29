@@ -84,6 +84,10 @@ for a curated list of packages and resources.
 
 * [Countly](https://github.com/countly/countly-server) ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
 
+## BaaS (Backend as a Service)
+
+* [wolkenkit](https://github.com/thenativeweb/wolkenkit) ([website](https://www.wolkenkit.io)) - An open-source BaaS platform that builds on Domain-Driven Design (DDD), Event-Sourcing, and CQRS.
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
