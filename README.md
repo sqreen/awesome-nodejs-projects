@@ -15,6 +15,7 @@ for a curated list of packages and resources.
 * [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
 * [Enduro.js](https://github.com/Gottwik/enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged cms that gets your website running in minutes.
 * [Raneto](https://github.com/gilbitron/Raneto) ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ([website](https://www.gatsbyjs.org/)) - Blazing-fast static site generator for React
 
 **Meteor apps**
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope) ([website](http://www.telescopeapp.org)) - Telescope Nova is a free, open-source app platform built with React and powered by Meteor on the back-end. Nova provides simple building blocks such as posts, comments, forms, and modals, and makes it easy to quickly customize them to build modern, social web apps.
@@ -36,6 +37,8 @@ for a curated list of packages and resources.
 
 * [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - Fully hackable text editor using Chrome.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
+* [Hyper](https://github.com/zeit/hyper) ([website](https://hyper.is/)) - An Electron based terminal.
+* [Now Desktop](https://github.com/zeit/now-desktop) ([website](https://zeit.co/download/)) - An Electron based manager for deployments with Now.
 
 ## Forms
 
