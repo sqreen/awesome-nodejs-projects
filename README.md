@@ -72,6 +72,8 @@ for a curated list of packages and resources.
 
 ## eCommerce
 
+* [A Guide to E-Commerce for Node.js Developers](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - Using Node.js to build your online store (tutorial included with KOA.js).
+
 **Meteor apps**
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
