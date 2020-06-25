@@ -52,6 +52,7 @@ for a curated list of packages and resources.
 ## File Managers
 
 * [Cloud Commander](https://github.com/coderaiser/cloudcmd)([website](https://cloudcmd.io)) - Orthodox web file manager with console and editor.
+* [MyDrive](https://github.com/subnub/myDrive) - Self Hostable Fully Featured Google Drive Clone, using MongoDB, Typescript, Amazon S3/Filesystem, and Express. 
 
 ## Lifestyle
 
