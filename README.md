@@ -69,6 +69,7 @@ for a curated list of packages and resources.
 ## Science
 
 * [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
+* [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) - An application ehich uses Machine Learning in your browser to enhance low-light images upto a great extent.
 
 ## eCommerce
 
