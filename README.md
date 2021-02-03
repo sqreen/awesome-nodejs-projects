@@ -41,6 +41,12 @@ for a curated list of packages and resources.
 
 * [TellForm](https://github.com/whitef0x0/tellform) ([website](https://tellform.com))- A beautiful and powerful self-hostable Form and Survey builder similar to Typeform or Google Forms.
 
+
+## Communities Management
+
+* [Commudle](https://github.com/commudle/commudle-ng)([website](https://commudle.com)) - World's first community management platform. And it's free.
+
+
 ## Blogs
 
 * [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/)) - A simple, powerful publishing platform.
