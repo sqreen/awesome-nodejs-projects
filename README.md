@@ -85,7 +85,6 @@ for a curated list of packages and resources.
 ## Chat Bots
 
 * [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
-* [System Discord Bot](https://github.com/shiigehiro/System) ([website](https://shiigehiro.github.io/system)) - A Moderative and user-friendly Discord bot. 
  
 ## Analytics
 
