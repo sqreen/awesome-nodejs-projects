@@ -37,10 +37,6 @@ for a curated list of packages and resources.
 * [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - Fully hackable text editor using Chrome.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
 
-## Forms
-
-* [TellForm](https://github.com/whitef0x0/tellform) ([website](https://tellform.com))- A beautiful and powerful self-hostable Form and Survey builder similar to Typeform or Google Forms.
-
 
 ## Communities Management
 
