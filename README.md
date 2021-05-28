@@ -82,6 +82,10 @@ for a curated list of packages and resources.
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
 
+**Nestjs apps**
+
+* [Ever® Demand™](https://github.com/ever-co/ever-demand) ([website](https://ever.co/)) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+
 ## Chat Bots
 
 * [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
