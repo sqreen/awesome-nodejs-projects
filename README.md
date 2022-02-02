@@ -87,6 +87,11 @@ for a curated list of packages and resources.
 * [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
 * [System Discord Bot](https://github.com/shiigehiro/System) ([website](https://shiigehiro.github.io/system)) - A Moderative and user-friendly Discord bot. 
  
+## Discord Bots
+
+* [Elphabot](https://github.com/pranshu05/elpha) ([website](https://elphabot.github.io)) - Open-source discord.js multipurpose bot
+
+
 ## Analytics
 
 * [Countly](https://github.com/countly/countly-server) ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
