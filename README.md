@@ -78,6 +78,10 @@ for a curated list of packages and resources.
 
 * [A Guide to E-Commerce for Node.js Developers](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - Using Node.js to build your online store (tutorial included with KOA.js).
 
+## Listings
+
+* [Open-Listings](https://github.com/yanna92yar/open-listings) - An open listings complete web-app. It is multi-lingual and supports maps and tags.
+
 **Meteor apps**
 
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
