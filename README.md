@@ -80,7 +80,7 @@ for a curated list of packages and resources.
 
 ## Listings
 
-* [Open-Listings](https://github.com/yanna92yar/open-listings) - An open listings complete web-app which is multi-lingual and with maps and tags.
+* [Open-Listings](https://github.com/yanna92yar/open-listings) - An open listings complete web-app. It is multi-lingual and supports maps and tags.
 
 **Meteor apps**
 
