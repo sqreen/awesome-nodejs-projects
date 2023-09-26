@@ -68,6 +68,8 @@ for a curated list of packages and resources.
 * [Gadael](https://github.com/gadael/gadael) ([website](http://www.gadael.org)) Leave management software with french work regulations support.
 * [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
 * [Agile GPS](https://github.com/llambda/agilegps) - Real-time fleet tracking software
+* [IDURAR ERP CRM](https://github.com/idurar/erp-crm) - Open Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+
 
 ## Science
 
